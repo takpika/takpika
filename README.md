@@ -19,7 +19,9 @@ with a focus on **AI research, Discord bots, and DevOps**.
 ### 🛠️ Technical Skills
 
 - **Programming Languages:**  
-  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,swift,rust,go,dart,cpp,cs,java,ts,js,html,css,kotlin)](https://skillicons.dev)
+  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,swift,rust,go,dart,cpp)](https://skillicons.dev)  
+  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,java,ts,js,html,css)](https://skillicons.dev)  
+  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=kotlin)](https://skillicons.dev)
 
 - **AI & Machine Learning:**  
   [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,ollama,tensorflow)](https://skillicons.dev)
@@ -37,7 +39,8 @@ with a focus on **AI research, Discord bots, and DevOps**.
   [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=apple,ubuntu,raspberrypi)](https://skillicons.dev)
 
 - **Other Libraries/Tools**  
-  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=discord,vscode,xcode,vim,anaconda,github,safari)](https://skillicons.dev)
+  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=discord,vscode,xcode,vim,anaconda,github)](https://skillicons.dev)  
+  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=safari)](https://skillicons.dev)
 
 ### 🌟 Certification
 - **基本情報技術者試験 / Fundamental Information Technology Engineer Examination (Feb 2025)**
