@@ -21,7 +21,7 @@ with a focus on **AI research, Discord bots, and DevOps**.
 - **Programming Languages:**
   - **Proficient:** Python 🐍, Swift 🍏
   - **Currently Exploring:** Rust 🦀, Go 🐹
-  - **Other Experiences:** C++, Java, TypeScript, C#, Kotlin
+  - **Other Experiences:** C++, Java, TypeScript, C#, Kotlin, etc...
 
 - **AI & Machine Learning:**
   - **Frameworks & APIs:** OpenAI API, Keras
