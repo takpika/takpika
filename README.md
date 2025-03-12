@@ -18,36 +18,29 @@ with a focus on **AI research, Discord bots, and DevOps**.
 
 ### 🛠️ Technical Skills
 
-- **Programming Languages:**
-  - **Proficient:** Python 🐍, Swift 🍏
-  - **Currently Exploring:** Rust 🦀, Go 🐹
-  - **Other Experiences:** C++, Java, TypeScript, C#, Kotlin, etc...
+- **Programming Languages:**  
+  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,swift,rust,go,dart,cpp,cs,java,ts,js,html,css,kotlin)](https://skillicons.dev)
 
-- **AI & Machine Learning:**
-  - **Frameworks & APIs:** OpenAI API, Keras
-  - **AI Applications:** LLM-based chatbots, AI automation, agent research
+- **AI & Machine Learning:**  
+  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,tensorflow)](https://skillicons.dev)
 
-- **Discord Bot Development:**
-  - **Libraries:** discord.py
-  - **Use Cases:** Automation, AI-driven interactions
+- **Backend Development:**  
+  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fastapi,postgresql,firebase)](https://skillicons.dev)
 
-- **Backend Development:**
-  - **Frameworks:** FastAPI (Python)
-  - **Databases:** PostgreSQL, Firebase
+- **DevOps & Server Infrastructure:**  
+  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,jenkins)](https://skillicons.dev)
 
-- **DevOps & Server Infrastructure:**
-  - **Tools:** Docker 🐳, Kubernetes (K8s)
-  - **Use Cases:** Server deployment, scalable infrastructure
+- **Mobile & App Development:**  
+  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=swift,flutter)](https://skillicons.dev)
 
-- **Mobile & App Development:**
-  - **iOS:** SwiftUI
-  - **Cross-platform:** Flutter (Dart)
+- **Operating Systems:**  
+  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=apple,ubuntu,raspberrypi)](https://skillicons.dev)
 
-- **Operating Systems:**
-  - macOS 🍎, Ubuntu 🐧
+- **Other Libraries/Tools**  
+  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=discord,vscode,xcode,vim,anaconda,github,safari)](https://skillicons.dev)
 
 ### 🌟 Certification
-- **Fundamental Information Technology Engineer Examination (Feb 2025)**
+- **基本情報技術者試験 / Fundamental Information Technology Engineer Examination (Feb 2025)**
 
 ### 📫 How to reach me
 - 📧 Email: [contact@mail.takpika.jp](mailto:contact@mail.takpika.jp)
