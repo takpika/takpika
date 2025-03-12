@@ -28,7 +28,7 @@ with a focus on **AI research, Discord bots, and DevOps**.
   [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fastapi,postgresql,firebase)](https://skillicons.dev)
 
 - **DevOps & Server Infrastructure:**  
-  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,jenkins)](https://skillicons.dev)
+  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,jenkins,proxmox)](https://skillicons.dev)
 
 - **Mobile & App Development:**  
   [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=swift,flutter)](https://skillicons.dev)
