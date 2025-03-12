@@ -22,7 +22,7 @@ with a focus on **AI research, Discord bots, and DevOps**.
   [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,swift,rust,go,dart,cpp,cs,java,ts,js,html,css,kotlin)](https://skillicons.dev)
 
 - **AI & Machine Learning:**  
-  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,tensorflow)](https://skillicons.dev)
+  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,ollama,tensorflow)](https://skillicons.dev)
 
 - **Backend Development:**  
   [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=fastapi,postgresql,firebase)](https://skillicons.dev)
