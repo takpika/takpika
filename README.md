@@ -6,7 +6,8 @@ with a focus on **AI research, Discord bots, and DevOps**.
 
 ### 🔭 What I'm working on
 - 🤖 **[aiHub](https://github.com/takpika/aiHub)** - Multi-user conversational AI system  
-- 🏗️ **[mcAI](https://github.com/takpika/mcAI)** - AI agent research in Minecraft  
+- 🏗️ **[mcAI](https://github.com/takpika/mcAI)** *(archived)* - AI agent research in Minecraft
+  - Working on a new private project
 - 🤖 **Discord Bots** - Developing intelligent bots using **discord.py**  
 - 🛠️ **[typepy](https://github.com/takpika/typepy)** - Experimenting with custom programming languages  
 - 🔧 **Other projects & experiments** - Trying out new tech, random automation scripts, and more  
